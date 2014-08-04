@@ -67,4 +67,3 @@ class SimplePredictor < Predictor
     minimum_category
   end
 end
-
